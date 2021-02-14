@@ -1,1 +1,9 @@
-# duianit-attack
+# 对岸星空
+
+欢迎来到 DuianIT 官方网站！
+
+网站遭受攻击，停止访问，目前已经报警。
+
+给您造成的不便敬请谅解！
+
+&copy; 2021 东莞市晗芝清圆信息科技有限公司 <a href="https://beian.miit.gov.cn/">粤ICP备20067734号</a>
